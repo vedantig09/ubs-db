@@ -1,0 +1,10 @@
+EmployeeID,EmployeeName,Position,Salary,Contact,Book_Store_ID
+101,Sarah Sarosh,Cashier 1,24000,9029731161,B001
+102,Josh Stamer,Cashier 2,22000,8908283905,B001
+103,Claus D,Sales 1,24000,9327496971,B001
+104,Nathalie Taylor,Sales 2,22000,7679691700,B001
+105,Mary Jenner,Sales 3,20000,7592328779,B001
+106,Louis Philip,Floor Manager,60000,9550276717,B001
+107,Caitlyn ,Store Manager,80000,8726216592,B001
+108,John Bean,Floor Manager,60000,9746441052,B001
+109,Sydney Serena,Inventory Manager,55000,9567408168,B001
